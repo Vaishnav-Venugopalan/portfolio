@@ -29,6 +29,7 @@
     border-radius: 50%;
     box-shadow: 0 0 2px 1px grey;
     color: var(--text-color);
+    cursor: pointer;
 }
 
 .style_changer_container .style_changer_options{
@@ -61,6 +62,7 @@
     border: transparent;
     border-radius: 50%;
     box-shadow: 0 0 2px 1px grey;
+    cursor: pointer;
 }
 
 
